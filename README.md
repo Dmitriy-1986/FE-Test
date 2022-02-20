@@ -2,4 +2,4 @@
 <h1>Absolute Web Services</h1>
 <a href="https://docs.google.com/document/d/1GslyhztrY0oo7fmBR3PHqcnkNyN0Tbr2fyFjsQrfRAI/edit">Задание</a> | 
 <a href="https://dmitriy-1986.github.io/FE-Test/">Проект на Github Pages</a> |
-<a href="https://dmitriy-1986.github.io/FE-Test/">Проект на Github </a>
+<a href="https://github.com/Dmitriy-1986/FE-Test">Код проекта на Github </a>
